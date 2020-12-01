@@ -80,7 +80,7 @@ rooms = {
         DESCRIPTION:"Beneath the jaudice moon you can see the garden is overgrown. Vines choke the house, and thorny shrubs litter the garden, a dirt path winds through the garden to a locked, metal gate. You notice footprints on the dirt path.",
         INFO : 'Someone has written something in the dirt-',
         PUZZLE: "What is the first thing a gardener plants?",
-        SOLVED: 'a foot',,
+        SOLVED: 'a foot',
         FORWARD : 'Dining Room',
         BACKWARD : 0,
         LEFT : 0,
